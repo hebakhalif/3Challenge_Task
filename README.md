@@ -15,7 +15,7 @@ Features:
 - Preloaded with 3 sample tasks  
 
 📹 Demo:  
-![Challenge 1 Demo](assets\docs\TaskManagement.gif)
+[Watch the video on Google Drive](https://drive.google.com/file/d/1GZXM4coTx5F4FRvdS71itZwq-b8OzkvS/view?usp=drive_link)
 
 ---
 
@@ -29,7 +29,7 @@ Features:
 - Handles both correct and incorrect drops  
 
 📹 Demo:  
-![Challenge 2 Demo](assets\docs\PhysicsPlayground.gif)
+[Watch the video on Google Drive](https://drive.google.com/file/d/1l0FEkFEGTCSCcqibvoxYIDg1HGgw5Enz/view?usp=drive_link)
 
 ---
 
@@ -42,7 +42,7 @@ Features:
 - Proper disposal of the controller  
 
 📹 Demo:  
-![Challenge 3 Demo](assets\docs\LoadingDots.gif)
+[Watch the video on Google Drive](https://drive.google.com/file/d/1yBUT5DTWQMPVNH7bVhzb17dPadewDw4c/view?usp=drive_link)
 
 ---
 
