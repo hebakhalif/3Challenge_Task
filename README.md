@@ -1,16 +1,50 @@
-# challenges
+# Flutter Challenges
 
-A new Flutter project.
+This repository contains 3 Flutter challenges demonstrating different widgets and animations.  
+Each challenge section includes a short description and a demo video/GIF.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔹 Challenge 1: Interactive Dismissible Lists
+Create a task management widget using *Dismissible* combined with *ReorderableListView*.  
+Features:
+- Swipe to delete tasks  
+- Drag to reorder tasks  
+- Confirmation dialog before deletion  
+- Undo functionality using SnackBar  
+- Preloaded with 3 sample tasks  
 
-A few resources to get you started if this is your first Flutter project:
+📹 Demo:  
+![Challenge 1 Demo](assets\docs\TaskManagement.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔹 Challenge 2: Interactive Physics Widget
+Use *Draggable* and *DragTarget* widgets to create a mini physics simulation.  
+Features:
+- Draggable colored balls (at least 3 different colors)  
+- Matching drop targets/containers  
+- Visual feedback during dragging  
+- Success state when correct matches are made  
+- Handles both correct and incorrect drops  
+
+📹 Demo:  
+![Challenge 2 Demo](assets\docs\PhysicsPlayground.gif)
+
+---
+
+## 🔹 Challenge 3: Advanced Animation Chain
+A widget that creates a loading sequence with 3 dots using *AnimationController* and multiple *Tween* animations.  
+Features:
+- Sequential scale + opacity animations for 3 dots  
+- Smooth animation curves  
+- Continuous looping  
+- Proper disposal of the controller  
+
+📹 Demo:  
+![Challenge 3 Demo](assets\docs\LoadingDots.gif)
+
+---
+
+## 📝 Notes
+- Demo videos are included as *GIFs* inside the docs folder.  
